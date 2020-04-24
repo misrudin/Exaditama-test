@@ -37,7 +37,7 @@ Express.js is a web application framework for Node.js. [More about Express](http
 4. Turn on Web Server and MySQL can using Third-party tool like xampp, etc.
 5. Create a database exaditama, and Import file [exaditama.sql](database/exaditama.sql) to **phpmyadmin**
 6. Open Postman desktop application or Chrome web app extension that has installed before
-7. Choose HTTP Method and enter request url.(ex. localhost:4001/api/v1)
+7. Choose HTTP Method and enter request url.(ex. localhost:8000/football/endpoint)
 8. You can get url end point [here](#end-point)
 </section>
 
