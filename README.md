@@ -33,7 +33,7 @@ Express.js is a web application framework for Node.js. [More about Express](http
 ## How to run the app
 1. Open app's directory in CMD or Terminal
 2. Type `npm install`
-3. Make new file **.env** in root project folder, set up first [here](#env)
+3. Make new file **.env** in root project folder, set up first [here](#setup-env)
 4. Turn on Web Server and MySQL can using Third-party tool like xampp, etc.
 5. Create a database exaditama, and Import file [exaditama.sql](database/exaditama.sql) to **phpmyadmin**
 6. Open Postman desktop application or Chrome web app extension that has installed before
